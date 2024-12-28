@@ -1,0 +1,10 @@
+1. Copy this URL:
+
+https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
+
+2. In the Arduino IDE:
+	- Open "File" menu
+	- Click on "Preferences"
+	- Look for the field labeled "Additional Board Manager URLs"
+	- Paste the URL into this field
+	- Click "OK" to save
